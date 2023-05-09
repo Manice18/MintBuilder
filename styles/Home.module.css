@@ -104,6 +104,10 @@
   transform: translateZ(0);
 }
 
+.container{
+  background: #1F1F1F;
+}
+
 .logo,
 .thirteen {
   position: relative;
@@ -149,6 +153,10 @@
     rgba(var(--tile-end-rgb), 1)
   );
   background-clip: content-box;
+}
+
+.waller-adapter-button-trigger{
+  background-color: #833BBE;
 }
 
 /* Enable hover only on non-touch devices */
