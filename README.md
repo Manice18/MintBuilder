@@ -24,5 +24,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Details on this project
 
-This project is currently upto date with Buildspace Solana Core 1.
+This project is currently upto date with Buildspace Solana Core 2.
 
